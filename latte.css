@@ -2,3 +2,6 @@
 lattecss
 MIT License
 */
+.centered {
+  text-align: center;
+}
